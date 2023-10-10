@@ -15,10 +15,10 @@
 
   <p>O Cinéfilo é a ferramenta perfeita para cinéfilos que desejam manter um registro detalhado de sua jornada cinematográfica. Explore, avalie e organize seus filmes favoritos de maneira eficiente e pessoal.</p>
   
-  <h3> Protótipo </h3>
+  <h2> Protótipo </h2>
   <img src="Cinéfilo.png" alt="CinéfiloPrototipo" >
 
-  <h4> Equipe </h4>
+  <h2> Equipe </h2>
   <p> Vitor Hugo Oliveira Paloco - Pedro Henrique Ramoni Ouro </p>
 </body>
 </html>
