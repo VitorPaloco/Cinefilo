@@ -19,7 +19,7 @@
   <img src="Cinéfilo.png" alt="CinéfiloPrototipo" >
 
   <h2> Equipe </h2>
-  <p> Vitor Hugo Oliveira Paloco - Pedro Henrique Ramoni Ouro </p>
+  <p> Vitor Hugo Oliveira Paloco - Pedro Henrique Ramoni Ouro - Paulo Henrique Farias lima </p>
 </body>
 </html>
 
